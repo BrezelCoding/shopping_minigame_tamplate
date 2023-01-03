@@ -106,8 +106,8 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-}
-.items {
-  width: 90%;
-  overflow-y: scroll;
+  .items {
+    width: 90%;
+    overflow-y: scroll;
+  }
 }
